@@ -3,12 +3,12 @@ package LECTURE02;
 public class datatype2 {
     public static void main(String[] args) {
     
-        int a=10;
+        int a = 10;
         int minINT=Integer.MIN_VALUE;
         int maxINT=Integer.MAX_VALUE;
         System.out.println(minINT);
         System.out.println(maxINT);
-        short sh=-12;
+        short sh =-12;
         Short minish=Short.MIN_VALUE;
         Short maxish=Short.MAX_VALUE;
         System.out.println(minish);
